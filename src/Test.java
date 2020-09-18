@@ -10,7 +10,7 @@ public class  Test{
         String line = null;
 
         try {
-            // FileReader reads text files in the default encoding.
+            // FileReader reads text files.
             FileReader fileReader =
                     new FileReader(fileName);
 
