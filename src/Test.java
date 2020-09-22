@@ -20,6 +20,7 @@ public class  Test{
 
             while((line = bufferedReader.readLine()) != null) {
                 System.out.println(line);
+                System.out.println(line);
             }
 
             // Always close files.
